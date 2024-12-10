@@ -3,7 +3,7 @@ layout: page
 title: project 3 with very long name
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://github.com/BivinSadler/BivinSadler.github.io/blob/main/assets/html/CLT_2.html
+redirect: https://ddsshiny.shinyapps.io/CreditApp/
 importance: 3
 category: work
 ---
